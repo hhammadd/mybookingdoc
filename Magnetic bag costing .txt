@@ -1,0 +1,40 @@
+
+
+50           -  $9.5      product cost    (with logo)
+             -  $0.75     ship to inventory
+			 -  $5.45     ship to customer       -   on customer 
+			 -  $5        marketing              - change to half  - $5
+			 -  $1        website 
+			 -  $1.6      payment gatway  5.5%   -   can be optimize 
+			 
+	TOTAL    -  $28,3 
+Optimized    -  $16,25 
+			 
+			 - 30        selling price 
+			 - 26.95     selling price
+			 
+			 2 dollar    profit 
+
+
+             if making cost is $28,3  (104 AED) and selling is $49 then profit margin is 73 %
+			 if making cost is $16,25 (60 AED)  and selling is $30 then profit margin is 40 %  Optimized verion 
+			 if making cost is $16,25 (60 AED)  and selling is $49 then profit margin is 200%  Optimized verion 
+			 if making cost is $16,25 (60 AED)  and selling is $35 then profit margin is 100%  Optimized verion 
+			 
+			 
+			 
+			 
+
+
+			 
+Saudi
+UAE  
+Kuwait 
+behrain
+			 
+			 
+middle east  -  37 USD  delivery
+
+
+
+
